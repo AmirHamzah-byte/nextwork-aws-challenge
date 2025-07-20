@@ -2,7 +2,7 @@
 
 This is my solution for Day 2 of the [NextWork AWS Challenge - Analyze Data with Amazon QuickSight](https://learn.nextwork.org/projects/aws-analytics-quicksight).
 
-![Architecture Diagram](./pic/Architecture-diagram.png)
+![Architecture Diagram](./Architecture-diagram.png)
 
 
 ## 🛠️ Steps I Followed:
