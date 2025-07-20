@@ -17,6 +17,6 @@ This repository contains my hands-on work as part of the [NextWork AWS Challenge
 - Amazon QuickSight account setup and configuration
 - Connecting S3 datasets to QuickSight for analysis
 - Creating and publishing interactive dashboards
-- Visualizing data with bar charts, pie charts, and line graphs
+- Visualizing data with bar charts, pie charts, and table
 
 
