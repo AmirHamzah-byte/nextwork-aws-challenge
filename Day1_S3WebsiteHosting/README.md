@@ -1,6 +1,6 @@
 # 📦 AWS Beginner Challenge - Day 1: Hosting Website on Amazon S3
 
-This is my solution for Day 1 of the [NextWork AWS Challenge](https://www.nextwork.my/aws-challenge/).
+This is my solution for Day 1 of the [NextWork AWS Challenge](https://learn.nextwork.org/projects/aws-host-a-website-on-s3).
 
 ## 🛠️ Steps I Followed:
 1. Created an S3 bucket
@@ -9,8 +9,6 @@ This is my solution for Day 1 of the [NextWork AWS Challenge](https://www.nextwo
 4. Updated bucket policy for public access
 5. Visited the S3 static site URL
 
-## 🔗 Website Link:
-[https://your-bucket.s3-website-region.amazonaws.com](#)
 
 ## 🧠 What I Learned:
 - S3 can serve static websites
