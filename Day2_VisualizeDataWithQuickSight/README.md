@@ -12,6 +12,6 @@ This is my solution for Day 2 of the [NextWork AWS Challenge - Analyze Data with
 
 ## 🧠 What I Learned:
 - How to import data from S3 into QuickSight
-- Creating visuals like bar charts, pie charts, and line graphs
+- Creating visuals like bar charts, pie charts, and table
 - Sharing a published dashboard with others
 
