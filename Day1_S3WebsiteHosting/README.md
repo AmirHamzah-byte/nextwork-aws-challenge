@@ -2,7 +2,7 @@
 
 This is my solution for Day 1 of the [NextWork AWS Challenge- Host a Website on Amazon S3](https://learn.nextwork.org/projects/aws-host-a-website-on-s3).
 
-![S3 Architecture Diagram](./s3-architecture.png)
+<img src="./s3-architecture.png" alt="S3 Architecture Diagram" width="500"/>
 
 
 ## 🛠️ Steps I Followed:
