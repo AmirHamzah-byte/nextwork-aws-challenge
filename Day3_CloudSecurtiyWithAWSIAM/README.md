@@ -2,7 +2,7 @@
 
 This is my solution for Day 3 of the [NextWork AWS Challenge - Cloud Security with IAM.](https://learn.nextwork.org/projects/aws-security-iam)
 
-![Architecture Diagram](./architecture_diagram.png)
+<img src="./architecture_diagram.png" alt="IAM Security Diagram" width="500"/>
 
 ## 🛠️ Steps I Followed:
 1. Launched EC2 instances in different environments (development and production)
