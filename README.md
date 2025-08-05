@@ -6,8 +6,8 @@ This repository contains my hands-on work as part of the [NextWork AWS Challenge
 
 | Day | Project                          | Status   |
 |-----|----------------------------------|----------|
-| 1   | [S3 Website Hosting](../Day1_S3WebsiteHosting) | ✅ Completed |
-| 2   | [Visualize Data with QuickSight](../Day2_VisualizeDataWithQuickSight) | ✅ Completed |
+| 1   | [S3 Website Hosting](./Day1_S3WebsiteHosting) | ✅ Completed |
+| 2   | [Visualize Data with QuickSight](./Day2_VisualizeDataWithQuickSight) | ✅ Completed |
 | 3   | [Cloud Security with AWS IAM]() | 🔜 Upcoming |
 
 ## 🧠 Skills Gained
