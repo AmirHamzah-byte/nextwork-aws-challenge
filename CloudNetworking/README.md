@@ -9,7 +9,7 @@ This folder contains projects related to **AWS Networking** concepts and hands-o
    - Configured subnets (public & private).  
    - Attached an Internet Gateway for internet access.  
    - Assigned IPs and CIDR blocks.  
-   - <img src="./Build_a_VPC/architecture_diagram.png" alt="Architecture Diagram" width="1000"/>
+   - <img src="./Build_a_VPC/architecture_diagram.png" alt="Architecture Diagram" width="200"/>
 
 
 2. *(Upcoming projects will be added here...)*
@@ -28,4 +28,5 @@ This folder contains projects related to **AWS Networking** concepts and hands-o
 Each project is stored in its own subfolder:  
 - `vpc-setup/` → Project on creating a VPC, subnets, and internet gateway.  
 - *(More to come...)*  
+
 
