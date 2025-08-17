@@ -10,7 +10,6 @@ It covers the creation of a VPC, subnets, internet gateway, and basic networking
 Here’s the architecture of what I built:
 
 <img src="./architecture_diagram.png" alt="AWS VPC Architecture" width="500"/>
-*(Save your diagram as `architecture.png` in your repo root for it to display here.)*
 
 ---
 
@@ -34,13 +33,6 @@ Think of it as my own private section of the AWS cloud.
 - Configured an **IPv4 CIDR block** for the VPC.  
 - Learned that IP addresses work like street addresses for resources.  
 - Explored how different **CIDR block sizes** define the scale of the VPC.
-
----
-
-## 🔮 Next Steps
-- Add **security groups** and **network ACLs** to control traffic.  
-- Launch an **EC2 instance** inside the subnet.  
-- Configure a **route table** for better traffic management.  
 
 ---
 
