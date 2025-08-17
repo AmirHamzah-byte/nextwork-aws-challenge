@@ -4,7 +4,7 @@ This folder contains projects related to **AWS Networking** concepts and hands-o
 
 ## 📂 Projects
 
-1. **VPC Setup**  
+1. **Build a VPC**  
    - Created a Virtual Private Cloud (VPC) from scratch.  
    - Configured subnets (public & private).  
    - Attached an Internet Gateway for internet access.  
@@ -28,5 +28,6 @@ This folder contains projects related to **AWS Networking** concepts and hands-o
 Each project is stored in its own subfolder:  
 - `vpc-setup/` → Project on creating a VPC, subnets, and internet gateway.  
 - *(More to come...)*  
+
 
 
