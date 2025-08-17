@@ -20,17 +20,20 @@ Here’s the architecture of what I built:
 - Think of it as my own private section of the AWS cloud.
 - <img src="./reference_picture/1Create_VPC.png" alt="Create_VPC" width="500"/>
 
+
 ### 2 Create Subnets
 - Subnets are like neighborhoods inside the VPC.  
 - I learned the difference between **public** and **private subnets**.  
 - Configured a subnet to automatically assign **public IPs**, so instances can be accessible from the internet.
 - <img src="./reference_picture/2Create_public_subnet.png" alt="Create_public_subnet" width="500"/>
 
+
 ### 3 Set Up an Internet Gateway
 - Added and attached an **Internet Gateway** to the VPC.  
 - This acts as the “main gate” that lets data flow in and out of my VPC.  
 - Configured routing so public instances can access the internet.
 - <img src="./reference_picture/3Create_internet_gateway.png" alt="internet_gateway" width="500"/>
+
 
 ### 🚏 Bonus - Configure IP Addresses & CIDR Blocks
 - Configured an **IPv4 CIDR block** for the VPC.  
