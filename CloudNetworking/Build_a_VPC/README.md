@@ -9,8 +9,7 @@ It covers the creation of a VPC, subnets, internet gateway, and basic networking
 
 Here’s the architecture of what I built:
 
-![AWS VPC Architecture](./architecture_diagram.png)
-
+<img src="./architecture_diagram.png" alt="AWS VPC Architecture" width="500"/>
 *(Save your diagram as `architecture.png` in your repo root for it to display here.)*
 
 ---
