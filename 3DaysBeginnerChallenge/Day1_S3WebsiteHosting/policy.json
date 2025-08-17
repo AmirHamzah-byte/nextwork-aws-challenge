@@ -1,0 +1,12 @@
+{
+" Id": "MyBucketPolicy",
+Statement": [ "
+"Version": "2012-10-17", "Principal": "*",
+{
+"Sid": "BucketPutDelete",
+"Effect": "Deny",
+"Action": "s3: DeleteObject",
+"Resource": "arn:aws:s3::: <bucket-name>/<object-name>"
+}
+]
+}
