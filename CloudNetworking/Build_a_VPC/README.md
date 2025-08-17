@@ -16,16 +16,16 @@ Here’s the architecture of what I built:
 
 ## 📘 What I Learned
 
-### ☁️ Create a VPC
+### 1 Create a VPC
 I created my first **Virtual Private Cloud (VPC)** using Amazon VPC.  
 Think of it as my own private section of the AWS cloud.
 
-### 🥅 Create Subnets
+### 2 Create Subnets
 - Subnets are like neighborhoods inside the VPC.  
 - I learned the difference between **public** and **private subnets**.  
 - Configured a subnet to automatically assign **public IPs**, so instances can be accessible from the internet.
 
-### 🚪 Set Up an Internet Gateway
+### 3 Set Up an Internet Gateway
 - Added and attached an **Internet Gateway** to the VPC.  
 - This acts as the “main gate” that lets data flow in and out of my VPC.  
 - Configured routing so public instances can access the internet.
